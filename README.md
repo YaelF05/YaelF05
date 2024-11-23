@@ -36,7 +36,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/YaelF05/YaelF05/output/snake.svg" alt="Snake animation" />
-
-###
